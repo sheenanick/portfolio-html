@@ -1,3 +1,7 @@
+body {
+  padding-bottom: 5%;
+}
+
 .container {
   max-width: 1000px;
 }
@@ -18,4 +22,17 @@
 
 .img-circle {
   border-radius: 50%;
+}
+
+.about-me {
+  background-color: #e6f7ff;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.resume {
+  padding-left: 2%;
+  padding-right: 2%;
 }
