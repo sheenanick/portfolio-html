@@ -1,0 +1,15 @@
+.container {
+  max-width: 1000px;
+}
+
+.carousel-inner > .item > img {
+  float: left;
+}
+
+.carousel-inner > .item > h1 {
+  font-size: 50px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
