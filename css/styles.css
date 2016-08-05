@@ -2,12 +2,18 @@
   max-width: 1000px;
 }
 
-.carousel-inner > .item > img {
-  float: left;
+.carousel .carousel-indicators .active {
+  background-color: #737373;
 }
 
-.carousel-inner > .item > h1 {
-  font-size: 50px;
+.carousel .carousel-indicators li {
+  border-color: #737373;
+}
+
+.carousel-inner .item img.first-slide {
+  float: left;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .img-circle {
