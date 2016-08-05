@@ -19,7 +19,7 @@ _Please feel free to contact me through Github or by email at sheenanick@gmail.c
 
 ## GitHub Pages link
 
-_ _
+_[a link](https://sheenanick.github.io/portfolio)_
 
 ## Technologies Used
 
