@@ -13,13 +13,13 @@ _This is my personal web Portfolio that includes the following: an about me page
 * _Clone this repository_
 * _Open index.html with your web browser of choice._
 
-# Support and contact details
-
-_Please feel free to contact me through Github or by email at sheenanick@gmail.com if you have any issues or questions, ideas or concerns._
-
 ## GitHub Pages link
 
-_[a link](https://sheenanick.github.io/portfolio)_
+_[My Portfolio](https://sheenanick.github.io/portfolio)_
+
+## Support and contact details
+
+_Please feel free to contact me through Github or by email at sheenanick@gmail.com if you have any issues or questions, ideas or concerns._
 
 ## Technologies Used
 
