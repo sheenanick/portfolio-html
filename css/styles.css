@@ -2,6 +2,11 @@ body {
   padding-bottom: 5%;
 }
 
+nav {
+  margin-bottom: 0 !important;
+  border-radius: 0 !important;
+}
+
 .container {
   max-width: 1000px;
 }
@@ -14,10 +19,14 @@ body {
   border-color: #737373;
 }
 
-.carousel-inner .item img.first-slide {
-  float: left;
-  margin-left: 10%;
-  margin-right: 10%;
+.carousel-inner .item img {
+  width: 100%;
+}
+
+.carousel-caption {
+  font-style: italic;
+  width: 75%;
+  text-align: right !important;
 }
 
 .img-circle {
