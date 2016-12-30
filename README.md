@@ -1,34 +1,35 @@
-# _My Portfolio_
+# My Portfolio
 
 #### _My Personal Web Portfolio, 08.05.2016_
 
-#### By _**Sheena Nickerson**_
+#### By Sheena Nickerson
 
 ## Description
 
-_This is my personal web Portfolio that includes the following: an about me page with my background and interests, a projects page that has descriptions and links to each of my Epicodus projects, and a contact page where you can send me a message._
+This is my personal web portfolio that includes the following: an about me page with my background and interests, a projects page that has descriptions and links to each of my Epicodus projects, and a contact page where you can send me a message.
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
-* _Open index.html with your web browser of choice._
+* Clone this repository `$git clone https://github.com/sheenanick/portfolio`
+* Navigate to the directory `$cd portfolio`
+* Open index.html with a web browser of your choice.
 
 ## GitHub Pages link
 
-_[My Portfolio](https://sheenanick.github.io/portfolio)_
+This website can be viewed on gh-pages [here](https://sheenanick.github.io/portfolio).
 
 ## Support and contact details
 
-_Please feel free to contact me through Github or by email at sheenanick@gmail.com if you have any issues or questions, ideas or concerns._
+Please feel free to contact sheenanick@gmail.com if you have any issues or questions, ideas or concerns.
 
 ## Technologies Used
 
-_HTML_
-_CSS_
-_Bootstrap_
+* HTML
+* CSS
+* Bootstrap
 
 ### License
 
-*This software is licensed under the GPL license.*
+*This software is licensed under the MIT license.*
 
 Copyright (c) 2016 **_Sheena Nickerson_**
