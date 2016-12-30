@@ -1,5 +1,4 @@
 body {
-  padding-bottom: 5%;
   background-image: url("../img/seigaiha.png");
   background-repeat: repeat;
 }
@@ -9,16 +8,24 @@ nav {
   border-radius: 0 !important;
 }
 
-.intro {
-  padding-bottom: 20px;
-}
-
 .container {
   max-width: 1000px;
 }
 
+.index-container {
+  background-color: #fff;
+}
+
+.intro {
+  padding-bottom: 20px;
+}
+
 .index-text {
   padding-left: 15px;
+}
+
+.about-box {
+  padding: 0 45px 15px 45px;
 }
 
 .center {
@@ -52,9 +59,35 @@ nav {
   font-style: italic;
 }
 
-.resume {
-  padding-left: 2%;
-  padding-right: 2%;
+.github-logo {
+  height: 18px;
+}
+
+.contact-container {
+  background-color: #fff;
+  height: 100vh;
+}
+
+.contact-icons {
+  max-width: 100px;
+  display: block;
+  margin: auto;
+}
+
+.footer {
+  padding-bottom: 5%;
+}
+
+.footer-icons {
+  float: right;
+}
+
+.footer-icon {
+  margin-right: 10px;
+}
+
+.footer-github-icon {
+  max-height: 30px;
 }
 
 #name {
@@ -65,6 +98,12 @@ nav {
   font-size: 36px;
   margin-top: 0;
   margin-bottom: 20px;
+}
+
+#email-icon {
+  display: block;
+  margin: auto;
+  max-width: 100px;
 }
 
 @media only screen and (min-width: 768px) {
