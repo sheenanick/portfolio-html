@@ -1,10 +1,16 @@
 body {
   padding-bottom: 5%;
+  background-image: url("../img/seigaiha.png");
+  background-repeat: repeat;
 }
 
 nav {
   margin-bottom: 0 !important;
   border-radius: 0 !important;
+}
+
+.intro {
+  padding-bottom: 20px;
 }
 
 .container {
@@ -22,6 +28,24 @@ nav {
 
 .img-circle {
   border-radius: 50%;
+}
+
+.category-title {
+  text-align: center;
+}
+
+.mobile-container {
+  padding: 0 15px 0 15px;
+}
+
+.app {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+.web-img {
+  border: 1px black solid;
 }
 
 .technologies {
