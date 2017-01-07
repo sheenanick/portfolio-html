@@ -21,7 +21,7 @@ nav {
 }
 
 .about-box {
-  padding: 0 45px 15px 45px;
+  padding: 0 15px 15px 15px;
 }
 
 .center {
@@ -108,7 +108,10 @@ nav {
   max-width: 100px;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 990px) {
+  .about-box {
+    padding: 0 45px 15px 45px;
+  }
   #job-title {
     font-size: 40px;
   }
