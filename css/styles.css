@@ -107,4 +107,7 @@ nav {
   #job-title {
     font-size: 40px;
   }
+  #message-text {
+    font-size: 28px;
+  }
 }
