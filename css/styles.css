@@ -20,10 +20,6 @@ nav {
   padding-bottom: 20px;
 }
 
-.index-text {
-  padding-left: 15px;
-}
-
 .about-box {
   padding: 0 45px 15px 45px;
 }
@@ -59,6 +55,10 @@ nav {
   height: 18px;
 }
 
+.description {
+  margin-bottom: 14px;
+}
+
 .contact-container {
   background-color: #fff;
   height: 100vh;
@@ -70,12 +70,9 @@ nav {
   margin: auto;
 }
 
-.footer {
-  padding-bottom: 5%;
-}
-
 .footer-icons {
   float: right;
+  padding-bottom: 18px;
 }
 
 .footer-icon {
@@ -94,6 +91,10 @@ nav {
   font-size: 28px;
   margin-top: 0;
   margin-bottom: 20px;
+}
+
+#heroku-link {
+  margin-left: 32px;
 }
 
 #email-icon {
