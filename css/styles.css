@@ -83,6 +83,11 @@ nav {
   max-height: 30px;
 }
 
+.to-top {
+  float: right;
+  margin-bottom: 18px;
+}
+
 #name {
   font-size: 76px;
 }
