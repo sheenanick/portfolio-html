@@ -33,6 +33,19 @@ nav {
   border-radius: 50%;
 }
 
+.footer-icons {
+  float: right;
+  padding-bottom: 18px;
+}
+
+.footer-icon {
+  margin-right: 10px;
+}
+
+.footer-github-icon {
+  max-height: 30px;
+}
+
 .mobile-container {
   padding: 0 15px 0 15px;
 }
@@ -41,6 +54,10 @@ nav {
   background-color: #fff;
   padding: 20px;
   margin-bottom: 15px;
+}
+
+.description {
+  margin-bottom: 14px;
 }
 
 .web-img {
@@ -55,8 +72,9 @@ nav {
   height: 18px;
 }
 
-.description {
-  margin-bottom: 14px;
+.to-top {
+  float: right;
+  margin-bottom: 18px;
 }
 
 .contact-container {
@@ -68,24 +86,6 @@ nav {
   max-width: 100px;
   display: block;
   margin: auto;
-}
-
-.footer-icons {
-  float: right;
-  padding-bottom: 18px;
-}
-
-.footer-icon {
-  margin-right: 10px;
-}
-
-.footer-github-icon {
-  max-height: 30px;
-}
-
-.to-top {
-  float: right;
-  margin-bottom: 18px;
 }
 
 #name {
@@ -100,6 +100,11 @@ nav {
 
 #heroku-link {
   margin-left: 32px;
+}
+
+#message-text {
+  margin-top: 0 !important;
+  padding-top: 10px;
 }
 
 #email-icon {
