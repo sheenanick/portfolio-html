@@ -16,6 +16,10 @@ nav {
   background-color: #fff;
 }
 
+.index-text {
+  padding: 0 15px;
+}
+
 .intro {
   padding-bottom: 20px;
 }
