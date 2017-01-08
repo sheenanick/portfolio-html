@@ -93,11 +93,11 @@ nav {
 }
 
 #name {
-  font-size: 76px;
+  font-size: 62px;
 }
 
 #job-title {
-  font-size: 28px;
+  font-size: 24px;
   margin-top: 0;
   margin-bottom: 20px;
 }
@@ -120,6 +120,9 @@ nav {
 @media only screen and (min-width: 990px) {
   .about-box {
     padding: 0 45px 15px 45px;
+  }
+  #name {
+    font-size: 76px;
   }
   #job-title {
     font-size: 40px;
