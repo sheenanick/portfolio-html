@@ -72,6 +72,10 @@ nav {
   height: 18px;
 }
 
+.play-icon {
+  height: 72px;
+}
+
 .to-top {
   float: right;
   margin-bottom: 18px;
