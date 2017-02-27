@@ -64,6 +64,10 @@ nav {
   margin-bottom: 14px;
 }
 
+.mobile-img {
+  margin-bottom: 4px;
+}
+
 .web-img {
   border: 1px black solid;
 }
@@ -74,6 +78,10 @@ nav {
 
 .github-logo {
   height: 18px;
+}
+
+.play-icon {
+  height: 62px;
 }
 
 .to-top {
