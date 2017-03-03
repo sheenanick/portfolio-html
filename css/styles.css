@@ -81,7 +81,7 @@ nav {
 }
 
 .play-icon {
-  height: 62px;
+  height: 48px;
 }
 
 .to-top {
@@ -130,10 +130,10 @@ nav {
     padding: 0 45px 15px 45px;
   }
   #name {
-    font-size: 76px;
+    font-size: 68px;
   }
   #job-title {
-    font-size: 40px;
+    font-size: 36px;
   }
   #message-text {
     font-size: 28px;
