@@ -8,6 +8,10 @@ nav {
   border-radius: 0 !important;
 }
 
+h3 {
+  margin-top: 0 !important;
+}
+
 .container {
   max-width: 1000px;
 }
@@ -116,13 +120,13 @@ nav {
 
 #message-text {
   margin-top: 0 !important;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 #email-icon {
   display: block;
   margin: auto;
-  max-width: 100px;
+  max-width: 90px;
 }
 
 @media only screen and (min-width: 990px) {
@@ -136,6 +140,6 @@ nav {
     font-size: 36px;
   }
   #message-text {
-    font-size: 28px;
+    font-size: 22px;
   }
 }
