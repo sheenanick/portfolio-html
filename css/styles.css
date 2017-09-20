@@ -82,6 +82,11 @@ h3 {
 
 .github-logo {
   height: 18px;
+  margin-right: 4px;
+}
+
+.heroku-link {
+  margin-left: 32px;
 }
 
 .play-icon {
@@ -112,10 +117,6 @@ h3 {
   font-size: 24px;
   margin-top: 0;
   margin-bottom: 20px;
-}
-
-#heroku-link {
-  margin-left: 32px;
 }
 
 #message-text {
