@@ -110,13 +110,16 @@ h3 {
 }
 
 #name {
-  font-size: 62px;
+  font-size: 58px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
 }
 
 #job-title {
   font-size: 24px;
   margin-top: 0;
   margin-bottom: 20px;
+  letter-spacing: 1px;
 }
 
 #message-text {
@@ -136,8 +139,11 @@ h3 {
   }
   #name {
     font-size: 68px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
   }
   #job-title {
-    font-size: 36px;
+    font-size: 28px;
+    letter-spacing: 2px;
   }
 }
