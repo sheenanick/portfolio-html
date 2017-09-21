@@ -120,14 +120,14 @@ h3 {
 }
 
 #message-text {
-  margin-top: 0 !important;
-  padding-top: 20px;
+  padding: 50px 16px 0 16px;
+  font-size: 18px;
 }
 
 #email-icon {
   display: block;
   margin: auto;
-  max-width: 90px;
+  max-width: 65px;
 }
 
 @media only screen and (min-width: 990px) {
@@ -139,8 +139,5 @@ h3 {
   }
   #job-title {
     font-size: 36px;
-  }
-  #message-text {
-    font-size: 22px;
   }
 }
