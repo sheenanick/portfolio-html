@@ -55,13 +55,19 @@ h3 {
 }
 
 .mobile-container {
-  padding: 0 15px 0 15px;
+  padding: 0 15px;
+}
+
+.mobile-app {
+  background-color: #fff;
+  padding: 20px 0;
+  margin-bottom: 20px;
 }
 
 .app {
   background-color: #fff;
   padding: 20px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 .description {
