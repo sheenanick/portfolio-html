@@ -10,13 +10,13 @@ This is my personal web portfolio that includes the following: an about me page 
 
 ## Setup/Installation Requirements
 
-* Clone this repository `$git clone https://github.com/sheenanick/portfolio`
-* Navigate to the directory `$cd portfolio`
+* Clone this repository `$git clone https://github.com/sheenanick/portfolio-html`
+* Navigate to the directory `$cd portfolio-html`
 * Open index.html with a web browser of your choice.
 
 ## GitHub Pages link
 
-This website can be viewed on gh-pages [here](https://sheenanick.github.io/portfolio).
+This website can be viewed on gh-pages [here](https://sheenanick.github.io/portfolio-html).
 
 ## Support and contact details
 
